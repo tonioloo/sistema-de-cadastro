@@ -1,0 +1,26 @@
+#Sistema de caadastro de produtos
+
+> status de projetos de desenvolvimento
+
+para rodar esse projeto no seu computador , por favor digite no terminal:
+
+```
+npm install react
+```
+
+agora eu vou escrever código em HTML para testar
+
+```
+  <!doctype html>
+  <html>
+    <head>
+       <meta charset="utf-8")
+       <title> Sistema </title>
+     <body>
+      <p> Olá mundo! </p>
+   </body>    
+  </html>
+  |
+  |
+  </html>
+```
